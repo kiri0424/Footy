@@ -1,0 +1,258 @@
+﻿  ball.cpp
+D:\Docs\Coding_Projects\Foo2y\footy2\player.cpp(11,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Docs\Coding_Projects\Foo2y\footy2\player.cpp(13,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Docs\Coding_Projects\Foo2y\footy2\player.cpp(14,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Docs\Coding_Projects\Foo2y\footy2\player.cpp(15,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Docs\Coding_Projects\Foo2y\footy2\player.cpp(16,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Docs\Coding_Projects\Foo2y\footy2\player.cpp(34,82): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Docs\Coding_Projects\Foo2y\footy2\player.cpp(65,1): warning C4305: '*=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Docs\Coding_Projects\Foo2y\footy2\ball.cpp(10,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Docs\Coding_Projects\Foo2y\footy2\ball.cpp(12,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Docs\Coding_Projects\Foo2y\footy2\ball.cpp(13,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Docs\Coding_Projects\Foo2y\footy2\ball.cpp(21,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Docs\Coding_Projects\Foo2y\footy2\ball.cpp(30,76): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  field.cpp
+  game.cpp
+D:\Docs\Coding_Projects\Foo2y\footy2\player.cpp(11,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Docs\Coding_Projects\Foo2y\footy2\player.cpp(13,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Docs\Coding_Projects\Foo2y\footy2\player.cpp(14,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Docs\Coding_Projects\Foo2y\footy2\player.cpp(15,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Docs\Coding_Projects\Foo2y\footy2\player.cpp(16,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Docs\Coding_Projects\Foo2y\footy2\player.cpp(34,82): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Docs\Coding_Projects\Foo2y\footy2\player.cpp(65,1): warning C4305: '*=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Docs\Coding_Projects\Foo2y\footy2\ball.cpp(10,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Docs\Coding_Projects\Foo2y\footy2\ball.cpp(12,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Docs\Coding_Projects\Foo2y\footy2\ball.cpp(13,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Docs\Coding_Projects\Foo2y\footy2\ball.cpp(21,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Docs\Coding_Projects\Foo2y\footy2\ball.cpp(30,76): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Docs\Coding_Projects\Foo2y\footy2\team.cpp(20,36): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Docs\Coding_Projects\Foo2y\footy2\team.cpp(34,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Docs\Coding_Projects\Foo2y\footy2\team.cpp(37,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Docs\Coding_Projects\Foo2y\footy2\team.cpp(40,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Docs\Coding_Projects\Foo2y\footy2\team.cpp(43,1): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Docs\Coding_Projects\Foo2y\footy2\team.cpp(43,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Docs\Coding_Projects\Foo2y\footy2\team.cpp(46,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Docs\Coding_Projects\Foo2y\footy2\team.cpp(49,1): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Docs\Coding_Projects\Foo2y\footy2\team.cpp(49,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Docs\Coding_Projects\Foo2y\footy2\team.cpp(52,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  main.cpp
+D:\Docs\Coding_Projects\Foo2y\footy2\player.cpp(11,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Docs\Coding_Projects\Foo2y\footy2\player.cpp(13,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Docs\Coding_Projects\Foo2y\footy2\player.cpp(14,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Docs\Coding_Projects\Foo2y\footy2\player.cpp(15,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Docs\Coding_Projects\Foo2y\footy2\player.cpp(16,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Docs\Coding_Projects\Foo2y\footy2\player.cpp(34,82): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Docs\Coding_Projects\Foo2y\footy2\player.cpp(65,1): warning C4305: '*=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Docs\Coding_Projects\Foo2y\footy2\ball.cpp(10,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Docs\Coding_Projects\Foo2y\footy2\ball.cpp(12,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Docs\Coding_Projects\Foo2y\footy2\ball.cpp(13,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Docs\Coding_Projects\Foo2y\footy2\ball.cpp(21,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Docs\Coding_Projects\Foo2y\footy2\ball.cpp(30,76): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Docs\Coding_Projects\Foo2y\footy2\team.cpp(20,36): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Docs\Coding_Projects\Foo2y\footy2\team.cpp(34,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Docs\Coding_Projects\Foo2y\footy2\team.cpp(37,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Docs\Coding_Projects\Foo2y\footy2\team.cpp(40,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Docs\Coding_Projects\Foo2y\footy2\team.cpp(43,1): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Docs\Coding_Projects\Foo2y\footy2\team.cpp(43,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Docs\Coding_Projects\Foo2y\footy2\team.cpp(46,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Docs\Coding_Projects\Foo2y\footy2\team.cpp(49,1): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Docs\Coding_Projects\Foo2y\footy2\team.cpp(49,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Docs\Coding_Projects\Foo2y\footy2\team.cpp(52,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  player.cpp
+D:\Docs\Coding_Projects\Foo2y\footy2\player.cpp(11,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Docs\Coding_Projects\Foo2y\footy2\player.cpp(13,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Docs\Coding_Projects\Foo2y\footy2\player.cpp(14,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Docs\Coding_Projects\Foo2y\footy2\player.cpp(15,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Docs\Coding_Projects\Foo2y\footy2\player.cpp(16,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Docs\Coding_Projects\Foo2y\footy2\player.cpp(34,82): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Docs\Coding_Projects\Foo2y\footy2\player.cpp(65,1): warning C4305: '*=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  recycleBin.cpp
+  team.cpp
+D:\Docs\Coding_Projects\Foo2y\footy2\player.cpp(11,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Docs\Coding_Projects\Foo2y\footy2\player.cpp(13,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Docs\Coding_Projects\Foo2y\footy2\player.cpp(14,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Docs\Coding_Projects\Foo2y\footy2\player.cpp(15,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Docs\Coding_Projects\Foo2y\footy2\player.cpp(16,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Docs\Coding_Projects\Foo2y\footy2\player.cpp(34,82): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Docs\Coding_Projects\Foo2y\footy2\player.cpp(65,1): warning C4305: '*=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Docs\Coding_Projects\Foo2y\footy2\ball.cpp(10,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Docs\Coding_Projects\Foo2y\footy2\ball.cpp(12,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Docs\Coding_Projects\Foo2y\footy2\ball.cpp(13,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Docs\Coding_Projects\Foo2y\footy2\ball.cpp(21,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Docs\Coding_Projects\Foo2y\footy2\ball.cpp(30,76): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Docs\Coding_Projects\Foo2y\footy2\team.cpp(20,36): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Docs\Coding_Projects\Foo2y\footy2\team.cpp(34,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Docs\Coding_Projects\Foo2y\footy2\team.cpp(37,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Docs\Coding_Projects\Foo2y\footy2\team.cpp(40,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Docs\Coding_Projects\Foo2y\footy2\team.cpp(43,1): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Docs\Coding_Projects\Foo2y\footy2\team.cpp(43,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Docs\Coding_Projects\Foo2y\footy2\team.cpp(46,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Docs\Coding_Projects\Foo2y\footy2\team.cpp(49,1): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Docs\Coding_Projects\Foo2y\footy2\team.cpp(49,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Docs\Coding_Projects\Foo2y\footy2\team.cpp(52,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  Foo2yy.vcxproj -> D:\Docs\Coding_Projects\Foo2y\Foo2yy\Debug\Foo2yy.exe
